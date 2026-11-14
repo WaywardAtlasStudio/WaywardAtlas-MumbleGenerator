@@ -1,0 +1,65 @@
+
+WAYWARD ATLAS MUMBLE GENERATOR
+GENERATED AUDIO USAGE PERMISSIONS
+Version 1.0 — 2026
+
+Copyright (c) 2026 Wayward Atlas Studio
+
+1. PURPOSE
+
+This document explains Wayward Atlas Studio's
+permissions concerning audio generated using
+the Wayward Atlas Mumble Generator.
+
+2. PERMITTED USES
+
+Wayward Atlas Studio grants users a worldwide,
+perpetual, non-exclusive, royalty-free permission
+to use, copy, modify, distribute, and incorporate
+audio generated with this software into personal
+or commercial projects, to the extent that
+Wayward Atlas Studio holds any applicable rights
+in that audio.
+
+This includes games, videos, animations,
+applications, and other creative works.
+
+3. ATTRIBUTION
+
+Attribution to Wayward Atlas Studio is not
+required when using generated audio.
+
+Attribution is appreciated but entirely optional.
+
+4. ROYALTIES AND FEES
+
+Wayward Atlas Studio does not require royalties,
+licensing fees, or revenue sharing for the use
+or distribution of generated audio.
+
+5. OWNERSHIP
+
+Wayward Atlas Studio does not claim ownership
+of a user's original creative contributions
+merely because the user generated or processed
+audio using this software.
+
+This document does not grant rights to
+third-party materials that a user may separately
+incorporate into their work.
+
+6. SOFTWARE LICENSE
+
+These audio permissions are separate from the
+license governing the Mumble Generator software.
+
+The software itself is licensed under the
+Apache License, Version 2.0.
+
+7. NO WARRANTY
+
+To the extent permitted by applicable law,
+the generated audio is provided without
+warranties of any kind.
+
+END OF DOCUMENT
