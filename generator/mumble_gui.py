@@ -77,7 +77,6 @@ STUDIO_NAME = "Wayward Atlas Studio"
 # Project links can be customized by developers.
 # Leave a URL empty until the destination is available.
 PROJECT_LINKS = {
-    PROJECT_LINKS = {
     "github": "https://github.com/WaywardAtlasStudio/WaywardAtlas-MumbleGenerator",
     "donate": "https://www.paypal.com/biz/profile/waywardatlasstudio",
 }
